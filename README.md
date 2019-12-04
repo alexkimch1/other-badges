@@ -4,7 +4,7 @@ All made by **Alex Kim** *(1010W)*
 
 **Programming**
 1. Programming: Basic Level 1
-2. Programming: Basic Level 2
+2. Programming: [Basic Level 2](https://github.com/alexkimch1/other-badges/tree/master/codebadge2)
 3. Programming: Proficient Level 1
 4. Programming: Proficient Level 2
 5. Programming: Proficient Level 3

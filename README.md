@@ -2,7 +2,7 @@
 This is where code for various **ForAllBackpacks** badges will go.
 All made by **Alex Kim** *(1010W)*
 
-# Programming Badges
+**Programming**
 1. Programming: Basic Level 1
 2. Programming: Basic Level 2
 3. Programming: Proficient Level 1

@@ -12,5 +12,5 @@ All made by **Alex Kim** *(1010W)*
 7. Programming: [Advanced Level 2](https://github.com/alexkimch1/other-badges/tree/master/programbadgeadv2)
 
 **Sensors Pathway**
-1. Sensors: Basic
-2. Sensors: Proficient
+1. Sensors: [Basic](https://github.com/alexkimch1/other-badges/tree/master/sensorbadge1)
+2. Sensors: [Proficient](https://github.com/alexkimch1/other-badges/tree/master/sensorbadge2)
